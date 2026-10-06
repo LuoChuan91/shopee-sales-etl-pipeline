@@ -3,10 +3,9 @@
 ## 📌 Executive Summary
 This project provides an end-to-end data pipeline and visual analytics dashboard designed to identify market gaps, evaluate seller saturation, and detect pricing anomalies across the Shopee e-commerce platform. The insights are structured to advise strategic decisions for enterprise clients (e.g., KPMG), focusing on maximizing Gross Market Value (GMV) and uncovering "white space" opportunities.
 
-**🔗 [https://public.tableau.com/app/profile/luo.chuan.seow7056/vizzes]**
+**🔗 [https://public.tableau.com/app/profile/luo.chuan.seow7056/viz/shopee-sales-dashboard/ShopeeMarketAnalysisPricingIntegrityGrowthOpportunities]**
 
 ![Dashboard Screenshot](/dashboard/shopee-dashboard.png)
-*(To add your screenshot: upload the image to your repository, then replace the link above with the image's file path).*
 
 ## 🎯 Key Business Questions Answered
 1. **Pricing Anomalies:** Which product categories contain statistically significant price manipulations or extreme outliers using $Z$-score analysis?

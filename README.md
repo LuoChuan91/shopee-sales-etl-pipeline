@@ -1,9 +1,9 @@
 # Shopee Market Analysis: Pricing Integrity & Growth Opportunities
 
 ## 📌 Executive Summary
-This project provides an end-to-end data pipeline and visual analytics dashboard designed to identify market gaps, evaluate seller saturation, and detect pricing anomalies across the Shopee e-commerce platform. The insights are structured to advise strategic decisions for enterprise clients (e.g., KPMG), focusing on maximizing Gross Market Value (GMV) and uncovering "white space" opportunities.
+This project provides an end-to-end data pipeline and visual analytics dashboard designed to identify market gaps, evaluate seller saturation, and detect pricing anomalies across the Shopee e-commerce platform. The insights are structured to advise strategic decisions, focusing on maximizing Gross Market Value (GMV) and uncovering "white space" opportunities.
 
-**🔗 [https://public.tableau.com/app/profile/luo.chuan.seow7056/viz/shopee-sales-dashboard/ShopeeMarketAnalysisPricingIntegrityGrowthOpportunities]**
+**🔗https://public.tableau.com/app/profile/luo.chuan.seow7056/viz/shopee-sales-dashboard/ShopeeMarketAnalysisPricingIntegrityGrowthOpportunities**
 
 ![Dashboard Screenshot](/dashboard/shopee-dashboard.png)
 
